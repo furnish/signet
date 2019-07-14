@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.summary = "Signet is an OAuth 1.0 / OAuth 2.0 implementation."
 
   s.add_runtime_dependency 'addressable', '~> 2.3'
-  s.add_runtime_dependency 'faraday', '~> 0.9'
+  s.add_runtime_dependency 'faraday', '~> 0.10'
   s.add_runtime_dependency 'multi_json', '~> 1.10'
   s.add_runtime_dependency 'jwt', '~> 1.5'
 
